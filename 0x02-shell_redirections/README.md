@@ -1,4 +1,5 @@
 Welcome to my README file, here you will get the details of all the actions of the scripts in this project folder/diectory. So let's begin;
+
 0. Hello World -> This outputs the words `Hello, World` when the 0-hello_world is run.
 1. Confused smiley-> This gives the output of a confused smiley face or emoji.
 2. Let's display a file -> This displays the content of the /etc/passwd file.
